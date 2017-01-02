@@ -10,6 +10,7 @@
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 2. [Github for Developers](https://vimeo.com/187834848/3cea5e40ed)
+3. [Github for Developers 2](https://vimeo.com/187834855/a3c6a3958d)
 
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily

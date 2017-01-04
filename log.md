@@ -20,3 +20,7 @@
 Haven't looked at the back end stuff yet, but that should be a lot easier, ha!.  First time in a while I haven't used bootstrap to get the styling out of the way.
 
 ## Day 2: 3 Jan 2017
+
+Another hour of code, and it was really tough today.  Work is such a pain in the ass right now, I never know what I'm supposed to do, the atmosphere has slowly become less and less supportive, less and less helpful.  At least the weather API is really cool, going to try another code challenge as well, see if I can get past something.  Got the tempature working agian with the clesisu converter, need to wrok on some styling.  CSS agian.
+
+

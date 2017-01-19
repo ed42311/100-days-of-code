@@ -46,3 +46,6 @@ start with homebrew:
 
 ## Day 1: 16 Jan 2017
 We begin agian with the coding after a restart, things are not always perfect.  Going with some interval projects for when I get stuck on the larger stuff. Found some very simple vanilla JS stuff with Wes Bos at [Javascript30](https://javascript30.com).  Going to use those in the middle of the other projects, also need to do a few code challenges tonight.  
+
+## Day 2: 18 Jan 2017
+Working on the javascript clock, got some cool things like ```transition-timing-function``` and how to set a ```transform```

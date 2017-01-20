@@ -49,3 +49,7 @@ We begin agian with the coding after a restart, things are not always perfect.  
 
 ## Day 2: 18 Jan 2017
 Working on the javascript clock, got some cool things like ```transition-timing-function``` and how to set a ```transform```
+
+## Day 3: 19 Jan 2017
+Learned about CSS Variables which are super awesome.  You have to append -- to the begining of them and you can scop them and then retrieve them from that scope.  Also dataset is the object that contains all the data- varaibles in it, which is pretty cool.  What else, oh yeh mousemove event is also kind of awesome, but I could see it getting out of hand quickly.
+

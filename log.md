@@ -53,3 +53,8 @@ Working on the javascript clock, got some cool things like ```transition-timing-
 ## Day 3: 19 Jan 2017
 Learned about CSS Variables which are super awesome.  You have to append -- to the begining of them and you can scop them and then retrieve them from that scope.  Also dataset is the object that contains all the data- varaibles in it, which is pretty cool.  What else, oh yeh mousemove event is also kind of awesome, but I could see it getting out of hand quickly.
 
+## Day 4: 20 Jan 2017
+Arraayyyss!  Cool stuff, espc with the arrow functions.  Sort and reduce are still kind of mystifying, how am I kidding, i don't really understand it at all, need to keep using them til I get it.  ```Sort takes a,b```  map always returns the same number of items.
+
+
+

@@ -56,5 +56,17 @@ Learned about CSS Variables which are super awesome.  You have to append -- to t
 ## Day 4: 20 Jan 2017
 Arraayyyss!  Cool stuff, espc with the arrow functions.  Sort and reduce are still kind of mystifying, how am I kidding, i don't really understand it at all, need to keep using them til I get it.  ```Sort takes a,b```  map always returns the same number of items.
 
+## Day 5: 21 Jan 2017
+Started working on the free code camp challenges agian.  Cleaning up the weather app and removing some erroneous stuff.
 
+## Day 6: 22 Jan 2017
+Worked on another js30 tutorial, using some flexbox methods to make something, shrink/grow.  Very cool stuff there, moved from thre to a [flexbox tutorial](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.cacetq1w2)
 
+## Day 7: 23 Jan 2017
+Applying Flexbox modeling concepts to weather app, restyling and reading about color choices.  Intersting ideas on shading in this [medium post](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e#.vmm36ecvu)
+
+## Day 8: 24 Jan 2017
+Applied Flexbox basics to weather app
+
+## Day 9: 25 Jan 2017
+Weather App at some state of functional

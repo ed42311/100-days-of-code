@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+#100 Days Of Code - Log
 
 ## Day 1: 2 Jan 2017
 
@@ -54,7 +54,7 @@ Working on the javascript clock, got some cool things like ```transition-timing-
 Learned about CSS Variables which are super awesome.  You have to append -- to the begining of them and you can scop them and then retrieve them from that scope.  Also dataset is the object that contains all the data- varaibles in it, which is pretty cool.  What else, oh yeh mousemove event is also kind of awesome, but I could see it getting out of hand quickly.
 
 ## Day 4: 20 Jan 2017
-Arraayyyss!  Cool stuff, espc with the arrow functions.  Sort and reduce are still kind of mystifying, how am I kidding, i don't really understand it at all, need to keep using them til I get it.  ```Sort takes a,b```  map always returns the same number of items.
+Arraayyyss!  Cool stuff, espc with the arrow functions.  Sort and reduce are still kind of mystifying, who am I kidding, I don't really understand it at all, need to keep using them til I get it.  ```Sort takes a,b```  map always returns the same number of items.
 
 ## Day 5: 21 Jan 2017
 Started working on the free code camp challenges agian.  Cleaning up the weather app and removing some erroneous stuff.
@@ -70,3 +70,12 @@ Applied Flexbox basics to weather app
 
 ## Day 9: 25 Jan 2017
 Weather App at some state of functional
+
+## Day 10: 26 Jan 2017
+
+## Day 11: 27 Jan 2017
+Vim, jump to the end of the file is shift+g.  
+
+## Day 12: 28 Jan 2017
+Learned about promises and spread today.  Also that ES6 has the fetch function embedded.  Pretty awesome. Got the type ahead working, wondering if I could implment this in the current project, would have to make it compatatible in terms of JQuery and the way we have things setup in MQS, but it might work...
+

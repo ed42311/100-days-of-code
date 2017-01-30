@@ -79,3 +79,7 @@ Vim, jump to the end of the file is shift+g.
 ## Day 12: 28 Jan 2017
 Learned about promises and spread today.  Also that ES6 has the fetch function embedded.  Pretty awesome. Got the type ahead working, wondering if I could implment this in the current project, would have to make it compatatible in terms of JQuery and the way we have things setup in MQS, but it might work...
 
+## Day 13: 29 Jan 2017
+Got the stuff working on the weather app today, put it in codepen and it doesn't work.
+
+

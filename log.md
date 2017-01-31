@@ -82,4 +82,5 @@ Learned about promises and spread today.  Also that ES6 has the fetch function e
 ## Day 13: 29 Jan 2017
 Got the stuff working on the weather app today, put it in codepen and it doesn't work.
 
-
+## Day 14: 30 Jan 2017
+Unity Roll a ball agian.  Got he ground and some of the phsyics in place.  Very cool stuff.

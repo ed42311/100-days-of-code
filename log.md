@@ -1,4 +1,5 @@
-#100 Days Of Code - Log
+#
+00 Days Of Code - Log
 
 ## Day 1: 2 Jan 2017
 
@@ -84,3 +85,49 @@ Got the stuff working on the weather app today, put it in codepen and it doesn't
 
 ## Day 14: 30 Jan 2017
 Unity Roll a ball agian.  Got he ground and some of the phsyics in place.  Very cool stuff.
+
+## Day 15: 31 Jan 2017
+Twitch.api  got a few things in place, took a minute
+
+## Day 16: 1 Feb 2017
+A bit of styling on the twitch api
+
+
+## Day 17: 2 Feb 2017
+got the rest of the unity engine stuff in place
+
+## Day 18: 3 Feb 2017
+weather app styling
+
+## Day 19: 4 Feb 2017
+A bit of debugging on the twitch api
+
+## Day 20: 5 Feb 2017
+Javascript Arrays
+
+## Day 21: 6 Feb 2017
+Unity Game Built
+
+## Day 22: 7 Feb 2017
+Started a new look at the twitch api, found some ways to build the object and make things more accessible, then I tried to make the API worj the way I wanted and it failed.  Back to the drawing board.
+
+## Day 23: 8 Feb 2017
+Got the API back up without the errors
+
+## Day 24: 9 Feb 2017
+Started on the Twitch-tv UI
+
+## Day 25: 10 Feb 2017
+Got The Twitch tv working with on hovers adn I think all the user stories
+
+## Day 26: 11 Feb 2017
+Javascript 30 arrays project
+
+## Day 27: 12 Feb 2017
+
+## Day 28: 13 Feb 2017
+
+## Day 29: 14 Feb 2017
+
+## Day 30: 15 Feb 2017
+

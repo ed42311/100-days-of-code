@@ -1,4 +1,4 @@
-#
+
 00 Days Of Code - Log
 
 ## Day 1: 2 Jan 2017
@@ -130,4 +130,30 @@ Javascript 30 arrays project
 ## Day 29: 14 Feb 2017
 
 ## Day 30: 15 Feb 2017
+
+## Day 36: 21 Feb 2017
+
+## Day 37: 22 Feb 2017
+
+## Day 38: 23 Feb 2017
+
+## Day 39: 24 Feb 2017
+
+## Day 40: 25 Feb 2017
+
+## Day 41: 26 Feb 2017
+
+## Day 42: 27 Feb 2017
+
+## Day 43: 28 Feb 2017
+js30 canvas tutorial
+```
+const canvas = document.querySelector('#draw');
+const ctx = canvas.getContext('2d');
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+ctx.strokeStyle = '#BADA55';
+ctx.lineJoin = 'round';
+ctx.lineCap = 'round';
+```
 
